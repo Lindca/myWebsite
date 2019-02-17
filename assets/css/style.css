@@ -1,0 +1,46 @@
+.navbar{
+    background: black !important;
+    
+}
+.navbar a:hover{
+    text-shadow: 1px 1px 2px #2DD5BB, 0 0 25px #2DD5BB, 0 0 5px #2DD5BB;
+    cursor: pointer;
+}
+.navbar a, .navbar span{
+    color: white !important;
+}
+
+body{
+    background-image: url(../images/webtreats-free-tileable-tropical-abstract-patterns-part-1-flickr-webtreats-free-tileable-tropical-abstract-patterns-part-1-1-by-webtreats.jpg);
+}
+.jumbotron{
+    background: black;
+    margin: 20px auto;
+    color: white;
+    padding: 20px;
+}
+h1{
+    color: white;
+}
+.bio{
+    font-size: 20px;
+}
+nav .nav-link{
+    color: white;
+}
+.container2{
+    text-align: center;
+    font-size: 20px;
+}
+.resume{
+    height: 1110px;
+    width: 820px;
+    border:solid black 10px;
+}
+.container3{
+    margin-left: 28%;
+    margin-right: 28%;
+}
+.linkedin{
+    align-content: flex-end
+}
