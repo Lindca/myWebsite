@@ -44,3 +44,7 @@ nav .nav-link{
 .linkedin{
     align-content: flex-end
 }
+.card{
+    background-color: black;
+    color: white;
+}
