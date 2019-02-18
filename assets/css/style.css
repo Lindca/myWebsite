@@ -48,3 +48,6 @@ nav .nav-link{
     background-color: black;
     color: white;
 }
+button{
+    margin: 5px;
+}
