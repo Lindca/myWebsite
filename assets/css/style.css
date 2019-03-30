@@ -47,7 +47,12 @@ nav .nav-link{
 .card{
     background-color: black;
     color: white;
+    width: 250px;
 }
 button{
     margin: 5px;
+}
+img.card-img-top{
+        height: 250px;
+        width: 250px;
 }
